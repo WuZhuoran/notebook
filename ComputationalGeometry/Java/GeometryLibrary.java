@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class GeometryObject {
+public class GeometryLibrary {
 	public static final double EPS = 1e-9;
 
 	public static final double PI = Math.PI;
